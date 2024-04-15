@@ -6,7 +6,7 @@
             "version": "2.0",
             "release_notes_url": "https://example.com/software1/releases/v2.0",
             "update_by_date": "2024-05-01",
-            "urgency": "high",
+            "urgency": "high"
         },
         {
             "software_name": "Example Software 2",
