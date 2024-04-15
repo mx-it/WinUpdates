@@ -22,5 +22,5 @@
         "urgency": "critical",
         "settings_url": "ms-settings:windowsupdate"
     },
-    "update_message": "Important updates are available for your software and Windows operating system. Please ensure all updates are installed by the specified dates for optimal performance and security. For Windows updates, you can directly navigate to the settings using the provided link."
+    "update_message": "Important updates are available for your software and Windows operating system. Please ensure all updates are installed by the specified dates for optimal performance and security. For Windows updates, you can directly navigate to the update settings using the provided buttons below."
 }
