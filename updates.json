@@ -1,0 +1,26 @@
+{
+    "update_required": true,
+    "software_updates": [
+        {
+            "software_name": "Google Chrome",
+            "version": "2.0",
+            "release_notes_url": "https://example.com/software1/releases/v2.0",
+            "update_by_date": "2024-05-01",
+            "urgency": "high",
+        },
+        {
+            "software_name": "Example Software 2",
+            "version": "3.5",
+            "release_notes_url": "https://example.com/software2/releases/v3.5",
+            "update_by_date": "2024-05-10",
+            "urgency": "medium"
+        }
+    ],
+    "windows_updates": {
+        "required": true,
+        "update_by_date": "2024-04-25",
+        "urgency": "critical",
+        "settings_url": "ms-settings:windowsupdate"
+    },
+    "update_message": "Important updates are available for your software and Windows operating system. Please ensure all updates are installed by the specified dates for optimal performance and security. For Windows updates, you can directly navigate to the settings using the provided link."
+}
