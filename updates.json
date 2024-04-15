@@ -9,7 +9,7 @@
             "urgency": "high"
         },
         {
-            "software_name": "Example Software 2",
+            "software_name": "Mozilla Firefox",
             "version": "3.5",
             "release_notes_url": "https://example.com/software2/releases/v3.5",
             "update_by_date": "2024-05-10",
